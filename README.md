@@ -1,6 +1,14 @@
+<div align="center">
+  <img src="./banner.jpg" width="100%" alt="Georgie's GitHub banner" />
+</div>
+
 # Hi, I'm Georgie 👋
 
 I'm a computing student interested in **quantum-hybrid AI development**, with a broader interest in artificial intelligence, quantum computing, post-quantum cryptography, and software development.
+
+<div align="center">
+  <img src="./divider.jpg" width="80%" height="100" alt="Blue pixel art divider" />
+</div>
 
 ## 🔬 Interests
 
