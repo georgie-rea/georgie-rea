@@ -2,38 +2,45 @@
 
   <p>୨୧ 🪼 🩵 💿 🪐 🦋 ୨୧</p>
   <h1>୨୧ Hi, I'm Georgie 🩵</h1>
+
   <p>
     <img src="https://img.shields.io/badge/COMPUTING%20STUDENT-263750?style=flat-square&labelColor=101827&color=9CCBFF" alt="Computing student" />
     <img src="https://img.shields.io/badge/AI%20%26%20ML-263750?style=flat-square&labelColor=101827&color=9CCBFF" alt="AI and machine learning" />
     <img src="https://img.shields.io/badge/QUANTUM%20COMPUTING-263750?style=flat-square&labelColor=101827&color=9CCBFF" alt="Quantum computing" />
   </p>
+
   <p><i>Exploring ideas, building things, learning as I go ♡</i></p>
-  <p>
-    ✧ Curious mind &nbsp;·&nbsp; Creative code &nbsp;·&nbsp; Future-focused ideas ✧
-  </p>
+  <p>✧ Curious mind &nbsp;·&nbsp; Creative code &nbsp;·&nbsp; Future-focused ideas ✧</p>
   <p><code>georgie-rea@github:~$ whoami</code></p>
   <p>˚₊‧꒰ა 🩵 ໒꒱‧₊˚</p>
 
 </div>
 
--------------------------------------------------------------------------------------------------
+---
 
 <div align="center">
 
   <h2>୨୧ ✦ ABOUT ME ✦ ୨୧</h2>
-  <p>
-    I'm a computing student interested in how software, mathematics
-    and emerging technologies can work together.
-  </p>
-  <p>
-    I'm especially curious about the intersection of classical computing,
-    quantum computing and artificial intelligence.
-  </p>
+
+</div>
+
+<img src="./image1.jpg" width="300" align="right" alt="Retro computer illuminated in blue light" />
+
+<div align="center">
+
+  <h3>✧ A little about me ✧</h3>
+
+  <p>I'm a computing student interested in how software, mathematics and emerging technologies can work together.</p>
+
+  <p>I'm especially curious about the intersection of classical computing, quantum computing and artificial intelligence.</p>
+
   <p>🪼 &nbsp; 💻 &nbsp; 🪐 &nbsp; 🔹 &nbsp; ⚛️</p>
 
 </div>
 
--------------------------------------------------------------------------------------------------
+<br clear="all" />
+
+---
 
 <div align="center">
 
@@ -44,41 +51,41 @@
       <td align="center" width="50%">
         <h3>⚛️</h3>
         <b>Quantum Computing</b>
-        <br>
+        <br />
         <sub>Exploring quantum ideas</sub>
       </td>
       <td align="center" width="50%">
         <h3>🤖</h3>
         <b>AI &amp; Machine Learning</b>
-        <br>
+        <br />
         <sub>Intelligent systems</sub>
       </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" width="50%">
         <h3>🔐</h3>
         <b>Post-Quantum Cryptography</b>
-        <br>
+        <br />
         <sub>Security in a quantum future</sub>
       </td>
-      <td align="center">
+      <td align="center" width="50%">
         <h3>⌘</h3>
         <b>Software Development</b>
-        <br>
+        <br />
         <sub>Turning ideas into projects</sub>
       </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" width="50%">
         <h3>∑</h3>
         <b>Mathematics</b>
-        <br>
+        <br />
         <sub>Logic and problem-solving</sub>
       </td>
-      <td align="center">
+      <td align="center" width="50%">
         <h3>⚗️</h3>
         <b>Physics &amp; Chemistry</b>
-        <br>
+        <br />
         <sub>Understanding how things work</sub>
       </td>
     </tr>
@@ -86,7 +93,7 @@
 
 </div>
 
--------------------------------------------------------------------------------------------------
+---
 
 <div align="center">
 
@@ -108,7 +115,7 @@
     <img src="https://img.shields.io/badge/HTML5-263750?style=for-the-badge&logo=html5&logoColor=9CCBFF" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-263750?style=for-the-badge&logo=css3&logoColor=9CCBFF" alt="CSS3" />
     <img src="https://img.shields.io/badge/JavaScript-263750?style=for-the-badge&logo=javascript&logoColor=9CCBFF" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/C%23-263750?style=for-the-badge&logo=csharp&logoColor=9CCBFF" alt="C sharp" />
+    <img src="https://img.shields.io/badge/C%23-263750?style=for-the-badge&logo=csharp&logoColor=9CCBFF" alt="C#" />
     <img src="https://img.shields.io/badge/C%2B%2B-263750?style=for-the-badge&logo=cplusplus&logoColor=9CCBFF" alt="C++" />
     <img src="https://img.shields.io/badge/Java-263750?style=for-the-badge&logo=openjdk&logoColor=9CCBFF" alt="Java" />
   </p>
@@ -117,7 +124,7 @@
 
 </div>
 
--------------------------------------------------------------------------------------------------
+---
 
 <div align="center">
 
@@ -125,22 +132,26 @@
 
   <p>🩵 Building skills, one project at a time 🩵</p>
 
-  <table>
-    <tr>
-      <td>
-        <pre>
-  GEORGIE.EXE
-  ---------------------------
-  STATUS   : LEARNING
-  FOCUS    : SOFTWARE + AI
-  INTEREST : QUANTUM COMPUTING
-  GOAL     : BUILD SOMETHING COOL
-  ---------------------------
-  > loading new ideas...
-        </pre>
-      </td>
-    </tr>
-  </table>
+  <pre align="center">
+----------------------------------
+GEORGIE.EXE
+----------------------------------
+STATUS : LEARNING
+FOCUS : SOFTWARE + AI
+INTEREST : QUANTUM COMPUTING
+GOAL : BUILD SOMETHING COOL
+----------------------------------
+> loading new ideas...
+----------------------------------
+  </pre>
+
+</div>
+
+<br />
+
+<img src="./image2.jpg" width="300" align="left" alt="Programming code on a monitor in blue lighting" />
+
+<div align="center">
 
   <h3>Things I want to explore</h3>
 
@@ -152,32 +163,41 @@
 
 </div>
 
--------------------------------------------------------------------------------------------------
+<br clear="all" />
+
+---
 
 <div align="center">
 
   <h2>✧ MY GITHUB ✧</h2>
+
   <p><i>A little snapshot of my coding activity.</i></p>
+
   <img
     src="https://github-readme-stats.vercel.app/api?username=georgie-rea&show_icons=true&hide_border=true&bg_color=101827&title_color=9CCBFF&text_color=D5DDE8&icon_color=9CCBFF"
     width="95%"
     alt="GitHub statistics"
   />
-  <br><br>
+
+  <br /><br />
+
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgie-rea&layout=compact&hide_border=true&bg_color=101827&title_color=9CCBFF&text_color=D5DDE8"
     width="95%"
     alt="Most used languages in public repositories"
   />
-  <br><br>
+
+  <br /><br />
+
   <img
     src="https://streak-stats.demolab.com?user=georgie-rea&hide_border=true&background=101827&ring=9CCBFF&fire=9CCBFF&currStreakLabel=9CCBFF&sideLabels=D5DDE8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8995A8"
     width="95%"
     alt="GitHub contribution streak"
   />
+
 </div>
 
--------------------------------------------------------------------------------------------------
+---
 
 <div align="center">
 
