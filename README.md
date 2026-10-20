@@ -169,38 +169,6 @@ GOAL : BUILD SOMETHING COOL
 
 <div align="center">
 
-  <h2>✧ MY GITHUB ✧</h2>
-
-  <p><i>A little snapshot of my coding activity.</i></p>
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=georgie-rea&show_icons=true&hide_border=true&bg_color=101827&title_color=9CCBFF&text_color=D5DDE8&icon_color=9CCBFF"
-    width="95%"
-    alt="GitHub statistics"
-  />
-
-  <br /><br />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgie-rea&layout=compact&hide_border=true&bg_color=101827&title_color=9CCBFF&text_color=D5DDE8"
-    width="95%"
-    alt="Most used languages in public repositories"
-  />
-
-  <br /><br />
-
-  <img
-    src="https://streak-stats.demolab.com?user=georgie-rea&hide_border=true&background=101827&ring=9CCBFF&fire=9CCBFF&currStreakLabel=9CCBFF&sideLabels=D5DDE8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8995A8"
-    width="95%"
-    alt="GitHub contribution streak"
-  />
-
-</div>
-
----
-
-<div align="center">
-
   <p>୨୧ 🪼 🩵 💿 🪐 🦋 ୨୧</p>
   <p><i>Made with curiosity, code &amp; a little bit of blue magic ♡</i></p>
   <p><code>END OF FILE</code></p>
